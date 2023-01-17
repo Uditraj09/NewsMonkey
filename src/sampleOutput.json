@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+    {
+    "source": {
+    "id": "independent",
+    "name": "Independent"
+    },
+    "author": "Geoffrey Macnab",
+    "title": "Top Gun: Maverick – Why Tom Cruise’s latest thrill ride is a take-off of traditional Hollywood flying movies",
+    "description": "As ‘Top Gun: Maverick’ premiered at the Cannes Film Festival this week, Geoffrey Macnab looks back at fighter jet films, and says if it hadn’t been for directors like Howard Hawks and Howard Hughes who reached for the sky before him, Cruise’s Top Gun films wo…",
+    "url": "http://www.independent.co.uk/independentpremium/culture/tom-cruise-top-gun-stunts-b2081833.html",
+    "urlToImage": "https://static.independent.co.uk/2022/05/19/12/TGM-FF-F-001R.jpg?quality=75&width=1200&auto=webp",
+    "publishedAt": "2022-05-20T05:34:07Z",
+    "content": "When Tom Cruise was in Cannes this week for the premiere of Top Gun: Maverick, fans reacted as if his new film was groundbreaking and he was the first movie star ever to climb inside a cockpit. \r\nIn … [+801 chars]"
+    },
+    {
+    "source": {
+    "id": "nbc-news",
+    "name": "NBC News"
+    },
+    "author": "Daniel Arkin",
+    "title": "'Lightyear,' 'Nope' and 28 other movies arriving this summer",
+    "description": "Summer is nearly here — and American movie theater chains, battered by the financial toll of an endless pandemic and rattled by audiences’ shift to streaming,",
+    "url": "https://www.nbcnews.com/pop-culture/movies/lightyear-nope-28-movies-arriving-summer-rcna28447",
+    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-05/220512-jurassic-world-dominion-ew-618p-23437b.jpg",
+    "publishedAt": "2022-05-19T13:13:04Z",
+    "content": "Summer is nearly here and American movie theater chains, battered by the financial toll of an endless pandemic and rattled by audiences shift to streaming, finally have reason to be cautiously optimi… [+10641 chars]"
+    },
+    {
+    "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": null,
+    "title": "Daily Briefing",
+    "description": "The day's top stories, from sports to movies to politics to world events.",
+    "url": "https://profile.usatoday.com/newsletters/daily-briefing/",
+    "urlToImage": "https://profile.usatoday.com/newsletters/resources/usat/property/usatoday/newsletter-thumbs/8872UT-E-NLETTER02@2x.jpg",
+    "publishedAt": "2021-08-15T15:35:07+00:00",
+    "content": "The day's top stories, from sports to movies to politics to world events."
+    }
+    ]
+    }

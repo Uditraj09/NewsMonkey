@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Uditraj09/news_monkey/static/css/main.61137451.css",
+    "main.js": "/Uditraj09/news_monkey/static/js/main.efe16cb2.js",
+    "static/js/787.4c026eef.chunk.js": "/Uditraj09/news_monkey/static/js/787.4c026eef.chunk.js",
+    "index.html": "/Uditraj09/news_monkey/index.html",
+    "main.61137451.css.map": "/Uditraj09/news_monkey/static/css/main.61137451.css.map",
+    "main.efe16cb2.js.map": "/Uditraj09/news_monkey/static/js/main.efe16cb2.js.map",
+    "787.4c026eef.chunk.js.map": "/Uditraj09/news_monkey/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61137451.css",
+    "static/js/main.efe16cb2.js"
+  ]
+}
